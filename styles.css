@@ -14,6 +14,9 @@ padding: 10px 5%;
 .gray{
    background-color: #e5e7eb; 
 }
+.hero h2{
+    margin:0;
+}
 .header-link a{
     color: #e5e7eb;
     font-size:18px;
@@ -58,6 +61,7 @@ a.button.inverse{
 .hero-contents p{
     color: #e5e7eb;
     font-size:18px; 
+    margin-top:0;
 }
 .center{
     text-align:center;
